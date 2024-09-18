@@ -3,8 +3,9 @@ validation: sovereign
 accounts: 
 - name: alice
   coins:
-  - 20000token
-  - 200000000stake
+      - 20000token
+      - 10000foocoin
+      - 200000000stake
 - name: bob
   coins:
   - 10000token
